@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a22908e7-ec8b-456c-853f-a3839b0f6229" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Huaian12_20.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo1/Test1.java" afterDir="false" />
+    <list default="true" id="a22908e7-ec8b-456c-853f-a3839b0f6229" name="变更" comment="淮安实训">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassTest/ClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassTest/ClassTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo1/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Huaian12_20.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Huaian12_20.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo1/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo1/Test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +41,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -51,6 +56,97 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.ClassTest2.replace">
+    <configuration name="ClassTest2.QQ" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Huaian12_20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ClassTest" />
+      <option name="MAIN_CLASS_NAME" value="ClassTest.ClassTest2" />
+      <option name="METHOD_NAME" value="QQ" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassTest2.Split" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Huaian12_20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ClassTest" />
+      <option name="MAIN_CLASS_NAME" value="ClassTest.ClassTest2" />
+      <option name="METHOD_NAME" value="Split" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassTest2.replace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Huaian12_20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ClassTest" />
+      <option name="MAIN_CLASS_NAME" value="ClassTest.ClassTest2" />
+      <option name="METHOD_NAME" value="replace" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassTest2.start_end" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Huaian12_20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ClassTest" />
+      <option name="MAIN_CLASS_NAME" value="ClassTest.ClassTest2" />
+      <option name="METHOD_NAME" value="start_end" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassTest2.telNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Huaian12_20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ClassTest" />
+      <option name="MAIN_CLASS_NAME" value="ClassTest.ClassTest2" />
+      <option name="METHOD_NAME" value="telNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClassTest2.replace" />
+        <item itemvalue="JUnit.ClassTest2.Split" />
+        <item itemvalue="JUnit.ClassTest2.QQ" />
+        <item itemvalue="JUnit.ClassTest2.start_end" />
+        <item itemvalue="JUnit.ClassTest2.telNumber" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -59,8 +155,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703032362659</updated>
-      <workItem from="1703032363890" duration="3058000" />
+      <workItem from="1703032363890" duration="16361000" />
     </task>
+    <task id="LOCAL-00001" summary="淮安实训">
+      <created>1703035459703</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703035459703</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,5 +180,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="淮安实训" />
+    <option name="LAST_COMMIT_MESSAGE" value="淮安实训" />
   </component>
 </project>

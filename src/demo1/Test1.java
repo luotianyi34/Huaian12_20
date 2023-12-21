@@ -1,5 +1,7 @@
 package demo1;
 
+import org.junit.Test;
+
 public class Test1 {
     public static void main(String[] args) {
         int a = 1;
@@ -42,7 +44,36 @@ public class Test1 {
 
         /*基本数据类型只能是数值（不能为空的）   包装类是个对象（可以为空）
         如果要以对象的形式来创建或者接收一个参数时，可以设置为空
+        基本数据类型必须设置初始值
+        而它的包装类对象可以为空
+
         * */
+
+        int s = 10;
+        Integer myInt = new Integer(s);
+
+        //自动拆箱与自动装箱
+        Integer myInt2 = 10;
+
+
+    }
+    @Test
+    public void gettest(){
+        Integer i1 = new Integer(128);
+        Integer i2 = new Integer(128);
+        System.out.println(i1==i2);//比较物理地址
+        System.out.println(i1.equals(i2));//比较值
+
+        //int -128~127
+        //这里的Integer 缓冲区 范围在-128~127
+        //如果要转的int类型在这个范围之内就不会创建integer对象而是在缓冲区直接调用
+        Integer i3 = Integer.valueOf(127);
+        System.out.println(i3);
+        Integer i4 = 127;//127+1 运算 再 装箱 (new Integer)
+        Integer i5 = 1+2;
+        Integer i6 = 127;//超出缓冲区就要装箱了
+        System.out.println(i4==i6);//是否超出127 超出就是false
+        System.out.println(i4.equals(i6));//true
 
 
     }
